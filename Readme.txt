@@ -1,1 +1,1 @@
-NIST SQLite 3.21 Testcase
+NIST SQLite-3.21-buggy Testcase
